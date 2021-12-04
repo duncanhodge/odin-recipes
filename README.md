@@ -1,0 +1,1 @@
+This is the first Odin project that I am doing. It is going to be a recipe website.
